@@ -25,3 +25,7 @@ Este proyecto consiste en desarrollar una aplicación en *Java* para la *gestió
 - Despliegue de la infraestructura con *Docker*
 - Pruebas unitarias y de integración usando *TestContainers*.
 - Integración continua con *GitFlow* y Pull Requests para cada tarea.
+
+## Vídeo explicación*
+
+Vídeo[explicación](https://www.youtube.com/watch?v=mSmswjPySkM&t=4s)
