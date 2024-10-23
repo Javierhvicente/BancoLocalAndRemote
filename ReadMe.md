@@ -28,4 +28,4 @@ Este proyecto consiste en desarrollar una aplicación en *Java* para la *gestió
 
 ## Vídeo explicación*
 
-Vídeo[explicación](https://www.youtube.com/watch?v=mSmswjPySkM&t=4s)
+[Vídeo](https://www.youtube.com/watch?v=mSmswjPySkM&t=4s)
